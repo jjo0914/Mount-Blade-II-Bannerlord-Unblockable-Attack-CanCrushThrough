@@ -10,8 +10,8 @@ The threshold has been lowered, and the attack direction restrictions have been 
 
 
 
-# 참조
-dnspy를 사용하여 .dll 파일을 IL언어로 수정했습니다.
+# Reference  
+The .dll file was modified in IL using dnSpy.
 
 dnspy IL
 ![](dnspyIL.png)
