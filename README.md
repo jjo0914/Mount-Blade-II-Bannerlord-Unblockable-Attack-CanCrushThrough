@@ -6,7 +6,7 @@ Before copying, back up the original `SandBox.dll` file.
 dnspy를 사용하여 .dll 파일을 IL언어로 수정했습니다.
 
 dnspy IL
-![]
+![](dnspyIL.png)
 dnspy c# 
 ![](dll3.PNG)
 
