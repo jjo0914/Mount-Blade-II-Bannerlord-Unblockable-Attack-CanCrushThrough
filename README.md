@@ -2,8 +2,8 @@
 ![](result.gif)  
 The threshold has been lowered, and the attack direction restrictions have been removed.  
   
-1. Copy `SandBox.dll` to `/Modules/SandBox/bin/`.  
-2. Before copying, back up the original `SandBox.dll` file.  
+1. Before copying, back up the original `SandBox.dll` file.  
+2. Download & Copy `SandBox.dll` to `/Modules/SandBox/bin/`.  
 3. Then open the desired weapon's `.xml` file and add `CanCrushThrough`.  
 
 ![](weapon.PNG)
